@@ -1,6 +1,0 @@
-<script>start("c:\\Users\\vitor\\Downloads\\vitor-config-server\\vitor-config-server\\src\\main\\resources\\config\\");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("application-dev.yml","application-dev.yml",0,193,"193 B",1739302924,"2/11/25, 4:42:04 PM");</script>
-<script>addRow("application-perf.yml","application-perf.yml",0,203,"203 B",1739381289,"2/12/25, 2:28:09 PM");</script>
-<script>addRow("application-prod.yml","application-prod.yml",0,202,"202 B",1739381315,"2/12/25, 2:28:35 PM");</script>
-<script>addRow("application-qa.yml","application-qa.yml",0,202,"202 B",1739381258,"2/12/25, 2:27:38 PM");</script>
